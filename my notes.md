@@ -65,7 +65,7 @@ CONSTRAINTS:
 <img width="594" height="405" alt="image" src="https://github.com/user-attachments/assets/987a12c9-6160-4a21-a720-0c823ae269ff" />
 
 <img width="569" height="368" alt="image" src="https://github.com/user-attachments/assets/71ec950f-073d-4a0e-965b-19558ec8aa76" />
-___________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________
 
 ALTERING THE TABLE:
 
@@ -79,8 +79,16 @@ WORKING OF ALTER IN THE POSTGRES:
 
 <img width="523" height="499" alt="image" src="https://github.com/user-attachments/assets/292e7b8b-8dcb-4736-a41c-5620b1f24397" />
 
+___________________________________________________________________________________________________________________________________
+
+TRUNCATING THE TABLE:
+
+SCHEMA IN THE TABLE WILL NOT BE DELETED BUT THE ITEMS INSIDE THE TABLE WILL BE DELETED
+
+<img width="388" height="140" alt="image" src="https://github.com/user-attachments/assets/ab785d33-585f-4667-a512-2480a381ffa0" />
 
 ____________________________________________________________________________________________________________________________________
+
 SHOWING THE TABLE:
 
 1.SYNTAX
@@ -92,6 +100,22 @@ SHOWING THE TABLE:
 <img width="409" height="153" alt="image" src="https://github.com/user-attachments/assets/d76ba75c-933f-43a4-b7f1-2a1f792a89fb" />
 
 ______________________________________________________________________________________________________________________________________
+
+DML COMMANDS:
+
+1. INSERT - THIS IS USED FOR INSERTING THE DATA INTO THE TABLE AS MENTIONED ABOVE.
+
+2. SELECT - THIS IS USED FOR SELECTING THE COLOUM AS MENTIONED ABOVE
+
+3. UPDATE - THIS IS USED FOR UPDATING THE VALUES INSIDE THE TABLE
+
+<img width="910" height="679" alt="image" src="https://github.com/user-attachments/assets/471b6e3d-67a1-4e7a-9119-01358a46a74b" />
+
+4. DELETE - THIS IIS USED TO DELETE THE ELEMENT INSIDE THE TABLE
+
+<img width="910" height="679" alt="image" src="https://github.com/user-attachments/assets/6f6761ab-36b2-4e33-9fbc-719d28c9ca87" />
+
+_______________________________________________________________________________________________________________________________________
 
 
 
