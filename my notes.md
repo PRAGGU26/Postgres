@@ -117,6 +117,18 @@ DML COMMANDS:
 
 _______________________________________________________________________________________________________________________________________
 
+NORMALISATION:
+
+1 NF - THE MULTIPLE VALUES IN THE SAME SECTION ARE NORMALISED
+2 NF - PARTIAL DEPENDENCY IS REMOVED
+3 NF - TRANSITIVE DEPENDENCY IS REMOVED
+BCNF - THE FUNCTIONAL DEPENDENCY IS REMOVED
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9cfff03-b6a1-472d-85a9-e2519f9e46a0" />
+
+IN THIS IMAGE THE BCNF IS SATISFIED BECAUSE THERE IS NO FUNCTIONAL DEPENDENCY BETWEEN THE COLOUMN.
+
 
 
 
